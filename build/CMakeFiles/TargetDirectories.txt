@@ -1,4 +1,0 @@
-F:/Git/Coding/Cmake_project/build/CMakeFiles/ALL_BUILD.dir
-F:/Git/Coding/Cmake_project/build/CMakeFiles/ZERO_CHECK.dir
-F:/Git/Coding/Cmake_project/build/src/CMakeFiles/Cmake_project.dir
-F:/Git/Coding/Cmake_project/build/src/CMakeFiles/header.dir
